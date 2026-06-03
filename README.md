@@ -1,1 +1,3 @@
-<img width="267" height="400" alt="000001" src="https://github.com/user-attachments/assets/3a328732-7749-4b66-b6dc-6395b002435a" />
+人物画像を撮影し、その人物の雰囲気などの属性にあったキャッチコピーを生成するプログラム
+<img width="266" height="400" alt="001134" src="https://github.com/user-attachments/assets/6383c166-f93f-4d17-9e13-7a662e7d7d2e" />
+例）華やかな日に贅沢なひとときを
